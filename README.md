@@ -9,5 +9,6 @@ This repository contains my verified course completion certificates and professi
 |-------------|----------------------|
 | [Elements of AI](./Elements-of-AI/certificate-elements_of_ai.png) | University of Helsinki & MinnaLearn |
 | [Intro to Programming](./Kaggle/certificate-intro-to-programming.png) | Kaggle |
+| [Python] (./Kaggle/certificate-python.png) |. Kaggle |
 
 More certificates will be added as I complete additional courses and certifications.
